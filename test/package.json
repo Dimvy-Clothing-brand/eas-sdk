@@ -33,7 +33,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "ethereumjs-util": "^7.1.5",
     "ethers": "^6.11.1",
-    "glob": "^10.3.12",
+    "glob": "^11.1.0",
     "hardhat": "2.22.2",
     "hardhat-dependency-compiler": "^1.1.4",
     "mocha": "^10.4.0",
